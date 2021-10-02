@@ -3,46 +3,6 @@ using namespace std;
 
 int  main()
 {
-	//cout << "Hello world!"<<" My name Nick!"<<endl;
-	//cout << "I love DUT! \n"<<"And DUT loves me!"<<endl;
-	//cout << "C\n+\n+";//Вывод через строку
-
-	//int a = 10;
-	//int b = 20;
-	//int sum = 10 + 20;
-	//cout << sum <<endl;  //Sum of a + b
-
-	/*int a;
-	int b;
-	int sum;
-	cout << "Please enter number of 'a' " << endl;
-	cin >> a;
-	cout << "Please enter number of 'b' " << endl;
-	cin >> b;
-	sum = a + b;
-	cout << "Sum: \n" << sum;
-	return 0;*/
-
-	/*auto x = 11;
-	auto str = "Money";
-	auto chr = 'c';
-	auto bln = true;
-	auto flt = 10.50;
-	
-	int div = 50 % 26;
-	cout << div;*/
-	
-	/*int mark;
-	cin >> mark;
-	if (mark < 50) {
-		cout << "You failed" << endl;
-	}
-	else
-	{
-		cout << "You passed" << endl;
-	}*/
-
-
 	//*Calculator*
 	int num = 1;
 	int number1;
